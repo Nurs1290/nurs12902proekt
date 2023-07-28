@@ -1,0 +1,19 @@
+.t45{
+ height: 400px;
+ width: max-content;
+ border: 2px solid red;
+ box-shadow: 1px 0 5px 3px;
+
+ 
+}
+body{
+    background-color: rgb(54, 54, 54);
+    
+}
+.NamePhonk{
+    margin-left: 600px;
+    margin-top: -300px;
+    width: max-content;
+    color: rgb(255, 54, 54);
+    box-shadow: 0 0 10px 10px blue;
+}
